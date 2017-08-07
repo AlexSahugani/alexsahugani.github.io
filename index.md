@@ -6,7 +6,8 @@
   * [Urza's Destiny](Urza-s block/Urza's Destiny.html)
 
 ### Masques block
-* [Mercadian Masques](Masques block/Mercadian Masques.html)    
+  * [Mercadian Masques](Masques block/Mercadian Masques.html)    
+  * [Nemesis](Masques block/Nemesis.html)    
 
 You can use the [editor on GitHub](https://github.com/AlexSahugani/alexsahugani.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
