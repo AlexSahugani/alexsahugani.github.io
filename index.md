@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
+# Urza's block
 [Urza's Saga](Urza-s block/Urza's Saga.html)
+[Urza's Legacy](Urza-s block/Urza's Legacy.html)
+[Urza's Destiny](Urza-s block/Urza's Destiny.html)
 
 You can use the [editor on GitHub](https://github.com/AlexSahugani/alexsahugani.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
