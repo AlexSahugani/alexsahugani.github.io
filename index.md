@@ -3,7 +3,9 @@
 <details>
   <summary>### Urza's block</summary><p>
   [Urza's Saga](Urza-s block/Urza's Saga.html)
+  
   [Urza's Legacy](Urza-s block/Urza's Legacy.html)
+  
   [Urza's Destiny](Urza-s block/Urza's Destiny.html)
   </p>
 </details>
